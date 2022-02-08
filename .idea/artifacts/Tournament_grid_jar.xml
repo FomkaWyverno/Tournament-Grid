@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Tournament grid:jar">
+    <output-path>$PROJECT_DIR$/../../MyProgram/TJAR</output-path>
+    <root id="archive" name="Tournament grid.jar">
+      <element id="module-output" name="Tournament grid" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Program/JavaFX-SDK/JFoenix/jfoenix-9.0.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Program/JavaFX-SDK/lib/src.zip" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Program/JavaFX-SDK/lib/javafx-swt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Program/JavaFX-SDK/lib/javafx.web.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Program/JavaFX-SDK/lib/javafx.base.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Program/JavaFX-SDK/lib/javafx.fxml.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Program/JavaFX-SDK/lib/javafx.media.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Program/JavaFX-SDK/lib/javafx.swing.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Program/JavaFX-SDK/lib/javafx.controls.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Program/JavaFX-SDK/lib/javafx.graphics.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
